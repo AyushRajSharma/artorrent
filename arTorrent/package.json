@@ -1,0 +1,15 @@
+{
+  "name": "artorrent",
+  "version": "1.0.0",
+  "description": "a bittorrent client for education purpose!!.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayush-raj",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1",
+    "bignum": "^0.13.1"
+  }
+}
