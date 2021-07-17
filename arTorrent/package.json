@@ -1,5 +1,5 @@
 {
-  "name": "allen-torrent",
+  "name": "artorrent",
   "version": "1.0.0",
   "description": "A bittorrent client for education purposes!",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "Ayush Raj",
   "license": "ISC",
   "dependencies": {
-    "bencode": "^0.9.0",
+    "bencode": "^2.0.1",
     "bignum": "^0.12.5"
   }
 }
