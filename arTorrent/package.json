@@ -1,15 +1,15 @@
 {
-  "name": "artorrent",
+  "name": "allen-torrent",
   "version": "1.0.0",
-  "description": "a bittorrent client for education purpose!!.",
+  "description": "A bittorrent client for education purposes!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ayush-raj",
+  "author": "Ayush Raj",
   "license": "ISC",
   "dependencies": {
-    "bencode": "^2.0.1",
-    "bignum": "^0.13.1"
+    "bencode": "^0.9.0",
+    "bignum": "^0.12.5"
   }
 }
